@@ -14,9 +14,10 @@ Here's a video of what this example looks like in Light Table:
 
 ## How to use
 
-The Light Table docs are great. In summary, use CTRL-SPACE to open up a siderbar letting you type the names of commands to execute.
+The Light Table docs tell you how to launch commands but, in summary, use CTRL-SPACE to open up a siderbar letting you type the names of commands to execute.
 
 Commands to setup Light Table:
+
 1. Command: Show Plugin Manager
 2. In the plugin manager, select "available" plugins and install Scrubber.
 3. Command: Add a tabset
@@ -24,6 +25,7 @@ Commands to setup Light Table:
 5. In the left tabset, open index.html and cube3D.css. In the right tabset, open the file index.html by putting into the navigation bar a URL like `file:///your/absolute/path/to/scrubbercube/index.html`.
 
 How to scrub:
+
 1. In the left tabset, open `index.html` and `cube3D.css`.
 2. In the CSS property `-webkit-transform` for the `.animate` selector, highlight either the rotateX or the rotateY values (either just the digits, or the digits and the units).
 3. Position your mouse cursor within the highlighted area.
