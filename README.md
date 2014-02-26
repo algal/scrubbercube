@@ -1,10 +1,16 @@
 # Scrubber and the 3D Scrubber
 
-This is a simple example of using the Light Table plugin [Scrubber][https://github.com/stratospark/lt-scrubber] to manipulate CSS transform values.
+This is a simple example of using the Light Table plugin [Scrubber](https://github.com/stratospark/lt-scrubber) to manipulate CSS transform values.
 
-The HTML5/CSS cube comes from this [CodePen sample][http://cssdeck.com/labs/simple-css3-3d-cube], which also shows animation and works on non-Webkit browsers.
+This style of scrubbing interface to manipulate code values, with real-time feedback of the result, has been popularized by Mr Bret Victor, and is available via his JS library [Tangle](http://worrydream.com/Tangle/).
 
-# How to use
+## example
+
+Here's a video of what this example looks like in Light Table:
+
+<a href="screenscrubber_video.gif'></a>
+
+## How to use
 
 The Light Table docs are great. In summary, use CTRL-SPACE to open up a siderbar letting you type the names of commands to execute.
 
@@ -22,3 +28,8 @@ How to scrub:
 4. Do COMMAND-click and, while holding down the mouse, drag left or right to decrease or increase the value.
 
 You should see the cube rotate as you modify the values of the rotation transform. Enjoy!
+
+
+# References
+
+The code for the HTML5/CSS cube comes from this [CodePen sample](http://cssdeck.com/labs/simple-css3-3d-cube), which also shows how to use keyframe animation and works on non-Webkit browsers.
