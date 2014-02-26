@@ -9,7 +9,7 @@ This style of scrubbing interface to manipulate code values, with real-time feed
 Here's a video of what this example looks like in Light Table:
 
 <div style="text-align: center">
-<img width="75%" src="./screenscrubber_video.gif"></img>
+<img width="75%" src="./scrubbercube_video.gif"></img>
 </div>
 
 ## How to use
