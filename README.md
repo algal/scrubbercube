@@ -8,7 +8,7 @@ This style of scrubbing interface to manipulate code values, with real-time feed
 
 Here's a video of what this example looks like in Light Table:
 
-<a href="screenscrubber_video.gif'></a>
+<a href="screenscrubber_video.gif"></a>
 
 ## How to use
 
